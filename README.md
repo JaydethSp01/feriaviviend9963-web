@@ -1,2 +1,3 @@
-# feriaviviend9963-web
-ScrumDev AI frontend (feriaviviend9963-web)
+# TPL Salud Cita Frontend
+
+Este es el frontend del sistema de gestión de citas médicas para la clínica.
